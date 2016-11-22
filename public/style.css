@@ -1,0 +1,22 @@
+body {
+  background-color: oldlace;
+}
+
+h1 {
+  font-family: Georgia;
+  color: black;
+}
+
+p {
+  font-size: 1.25em;
+  color: darkslategrey;
+  font-family: Helvetica;
+}
+
+a {
+  color: darkslategrey;
+}
+
+a:hover {
+  color: black;
+}
